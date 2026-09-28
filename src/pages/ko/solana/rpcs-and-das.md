@@ -153,5 +153,6 @@ These lists are in alphabetical order. Choose the provider that best suits your 
 - [Chainstack](https://chainstack.com/build-better-with-solana/)
 - [Figment](https://figment.io/)
 - [GetBlock](https://getblock.io/)
+- [Supanode](https://supanode.xyz/services/solana)
 - [NOWNodes](https://nownodes.io/)
 - [Syndica](https://syndica.io/)
